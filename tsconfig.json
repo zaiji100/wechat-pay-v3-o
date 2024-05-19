@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "module": "Node16",
+    "moduleResolution": "Node16",
+    // "declarationDir": "types",
+    "strict": true,
+    "jsx": "preserve",
+    "allowJs": true,
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "baseUrl": ".",
+    "lib": [
+      "esnext",
+      "dom"
+    ],
+    "outDir": "dist",
+    "declaration": true
+  },
+  "include": [
+    "src/**/*",
+    "test/**/*",
+    "*.ts"
+  ],
+}

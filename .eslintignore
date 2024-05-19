@@ -1,0 +1,7 @@
+build
+node_modules
+coverage
+dist
+vite.config.ts
+.eslintrc.js
+.eslintcache

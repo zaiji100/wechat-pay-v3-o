@@ -1,6 +1,6 @@
 {
   "name": "wechat-pay-v3-o",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Wechat Pay V3 Optimize SDK for Node.js",
   "files": [
     "dist"
